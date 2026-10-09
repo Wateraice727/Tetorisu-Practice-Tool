@@ -9,9 +9,9 @@
 ## This project is an assignment submission for an Object-Oriented Programming course
 
 A Modern Mechanical Tetris game based on the [Tetris Guideline Ruleset](https://tetris.wiki/Tetris_Guideline). 
-The main gameplay premise involves stacking a set of 7 different shaped blocks (tetriminos) on a 20x10 grid board to gain as much points as possible over an unlimited period of time. 
+The main gameplay premise involves stacking a set of 7 different shaped blocks (tetrominos) on a 20x10 grid board to gain as much points as possible over an unlimited period of time. 
 
-Clear lines and gain additional points by completely filling any rows on the grid. The more lines you clear at the same time the more points you will get. 
+Clear lines and gain additional points by completely filling any rows on the grid. The more lines you clear at the same time the higher the points multiplier you will get. 
 
 ## Gameplay controls
 |Keybinds|Function|
@@ -33,32 +33,7 @@ Clear lines and gain additional points by completely filling any rows on the gri
   </a>
 </p>
 
-
----
-
-## History
-
-**22-30/9/2026**: Started UML Building
-
-**31/9-8/10/2026**: Focused on Implementation
-
-**9/10/2026**: First commit on GitHub!!!
-
----
-
-## Contributor (temporary)
-
-| Name | Role |
-|---|---|
-| **Lê Văn Minh** | **Leader**, UML Constructor, Complete Coding-Logic |
-| **Trần Hoàng Đức** | Board/Grid class Implementation |
-| **Nguyễn Anh Phú** | Tetrominoes classes Implementation |
-| **Vương Nguyễn Minh Nhật** | Gameplay class Implementation |
-| **Đặng Quốc Duy** | TetrominoQueue class Implementation |
-
----
-
-## Detailed Features
+## Detailed Featureset
 
 | Topic | Details |
 |---|---|
@@ -75,6 +50,25 @@ Clear lines and gain additional points by completely filling any rows on the gri
 | **Game reset** | Restart the game by pressing 'R' after Game Over |
 
 ---
+# Miscellaneous 
+
+## History
+
+**22-30/9/2026**: Started UML Building
+
+**31/9-8/10/2026**: Implementation
+
+**9/10/2026**: First commit on GitHub!!!
+
+## Contributor members (temporary)
+
+| Name | Role |
+|---|---|
+| **Lê Văn Minh** | **Leader**, UML Constructor, Complete Coding-Logic |
+| **Trần Hoàng Đức** | Board/Grid class Implementation, Documentation |
+| **Nguyễn Anh Phú** | Tetrominoes classes Implementation |
+| **Vương Nguyễn Minh Nhật** | Gameplay class Implementation |
+| **Đặng Quốc Duy** | TetrominoQueue class Implementation |
 
 ## In the Future
 
